@@ -81,6 +81,7 @@ Analyze the visualizations and KPIs to uncover:
 High-performing regions and segments
 
 Profit leakage due to discounts
+![Screenshot (3)](https://github.com/user-attachments/assets/6a940445-a374-4089-a718-97f914fcf8db)
 
 Seasonal sales trends
 
